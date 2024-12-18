@@ -10,10 +10,8 @@ This project implements a deep learning model to classify images of cats and dog
 5. [Model Architecture](#model-architecture)
 6. [Training and Evaluation](#training-and-evaluation)
 7. [Usage](#usage)
-8. [Results](#results)
-9. [Future Improvements](#future-improvements)
-10. [Contributing](#contributing)
-11. [License](#license)
+8. [Future Improvements](#future-improvements)
+9. [Contributing](#contributing)
 
 ---
 
